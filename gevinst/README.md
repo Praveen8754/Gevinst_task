@@ -1,6 +1,6 @@
 # gevinst
+By using the API provided, designed my own UI and bind the data using Listview builder.
 
-A new Flutter project.
 
 ## Getting Started
 
